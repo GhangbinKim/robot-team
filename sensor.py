@@ -1,2 +1,2 @@
-sensor = "lds-002"
+sensor = "lds-02"
 range_m = 12
